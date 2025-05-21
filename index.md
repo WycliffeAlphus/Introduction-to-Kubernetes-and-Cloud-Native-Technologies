@@ -63,9 +63,13 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 ## 🎯 Each module will include:
 
 **Explanations** using simple analogies (e.g., comparing Kubernetes to a restaurant kitchen).
+
 **Diagrams** to visualize concepts.
+
 **Hands-on exercises** using free tools like Minikube or online sandboxes (e.g., Katacoda or Play with Kubernetes).
+
 **Quizzes** to reinforce learning.
+
 **Resources** for further reading.
 
 ## 🧑‍💻 Contributing
