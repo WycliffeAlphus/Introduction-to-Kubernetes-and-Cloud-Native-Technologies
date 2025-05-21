@@ -73,7 +73,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 ## 🧑‍💻 Contributing
 
 This project is open to contributions!  
-Check out the [contribution guide](./CONTRIBUTING.md) to get started.
+Check out the [contribution guide](./contributing.md) to get started.
 
 ---
 
