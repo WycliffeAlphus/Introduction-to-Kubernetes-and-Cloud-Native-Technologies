@@ -12,7 +12,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Why Kubernetes? Its role in modern applications.
 - Overview of containers and orchestration.
 
-**2. [Kubernetes Fundamentals: Core Concepts](modules/02-fundamentals.md)**
+**2. [Kubernetes Fundamentals: Core Concepts](modules/02-Core-Concepts.md)**
 
 - Understanding pods, nodes, and clusters.
 - Basic Kubernetes architecture (control plane, worker nodes).
