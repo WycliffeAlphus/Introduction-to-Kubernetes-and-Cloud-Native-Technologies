@@ -1,4 +1,4 @@
-# Introduction to Cloud-Native and Kubernetes.md
+# Introduction to Cloud-Native and Kubernetes
 
 ## Welcome to the Course!
 
