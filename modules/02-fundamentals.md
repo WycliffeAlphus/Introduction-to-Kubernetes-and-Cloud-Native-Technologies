@@ -125,8 +125,8 @@ View details with **kubectl describe pod my-web-pod**.
 
 1. What is a pod in Kubernetes?
 - A) A server in the cluster.
-- B) The smallest unit that holds one or more containers.
-- C) A database for storing cluster data.
+- B) A database for storing cluster data.
+- C) The smallest unit that holds one or more containers.
 
 
 2. What does the control plane do?
@@ -136,12 +136,12 @@ View details with **kubectl describe pod my-web-pod**.
 
 
 3. What command shows all nodes in a cluster?
-- A) kubectl get pods
-- B) kubectl get nodes
-- C) kubectl describe cluster
+- A) kubectl show pods
+- B) kubectl describe cluster
+- C) kubectl get nodes
 
 
-**Answers:** 1-B, 2-B, 3-B
+**Answers:** 1-C, 2-B, 3-C
 
 ## Further Reading
 
