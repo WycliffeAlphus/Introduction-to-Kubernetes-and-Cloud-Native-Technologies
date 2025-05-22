@@ -52,25 +52,8 @@ A **node** is a server (physical or virtual) in the Kubernetes cluster, like a b
 ## Kubernetes Architecture: How It All Fits Together
 
 Let’s put it together with a diagram :
-Kubernetes Cluster
-+-------------------+
-| Control Plane     |
-| - API Server      |
-| - Scheduler       |
-| - Controller Mgr  |
-| - etcd (Database) |
-| - Cloud Controller|
-|   manger(optional)| 
-+-------------------+
-        ↑↓
-+-------------------+
-| Worker Node 1     |
-| - Pod A (App)     |
-| - Pod B (App)     |
-+-------------------+
-| Worker Node 2     |
-| - Pod C (App)     |
-+-------------------+
+
+![Cluster](../assets/cluster.png)
 
 **Explanation:**
 
