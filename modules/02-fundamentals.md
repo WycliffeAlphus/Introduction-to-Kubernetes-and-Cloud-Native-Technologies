@@ -1,6 +1,6 @@
-# Kubernetes Fundamentals: Core Concepts
+# Module 2
 
-## Welcome to Module 2!
+## Kubernetes Fundamentals: Core Concepts
 
 In Module 1, we learned that Kubernetes is like a city planner for containers, managing them to keep applications running smoothly. Now, we’ll explore the core concepts of Kubernetes—pods, nodes, and clusters—and get hands-on with `kubectl`, the tool you’ll use to talk to Kubernetes. By the end of this module, you’ll understand how Kubernetes organizes applications and how to interact with a cluster.
 
