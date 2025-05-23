@@ -12,6 +12,13 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kh3rld"><img src="https://avatars.githubusercontent.com/u/171191586?v=4?s=100" width="100px;" alt="kh3rld"/><br /><sub><b>kh3rld</b></sub></a><br /><a href="#design-kh3rld" title="Design">🎨</a> <a href="#ideas-kh3rld" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
