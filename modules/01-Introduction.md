@@ -114,5 +114,5 @@ In **Module 2**, you’ll:
 kubectl run nginx --image=nginx  # Launches a Pod!
 ```
 
-[Proceed to Module 2](./modules/02-Core-Concepts.md) →
-```
+[Proceed to Module 2](./modules/02-Core-Concepts.html) →
+
