@@ -114,5 +114,5 @@ In **Module 2**, you’ll:
 kubectl run nginx --image=nginx  # Launches a Pod!
 ```
 
-[Proceed to Module 2](/02-Core-Concepts.html) →
+[Proceed to Module 2](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/02-Core-Concepts.html) →
 
