@@ -3,9 +3,24 @@
   "projectOwner": "WycliffeAlphus",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "kh3rld",
+      "name": "kh3rld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/171191586?v=4",
+      "profile": "https://github.com/kh3rld",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
