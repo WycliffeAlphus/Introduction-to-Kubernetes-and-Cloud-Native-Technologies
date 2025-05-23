@@ -81,19 +81,20 @@ Kubernetes (**K8s**) is the "orchestrator" for your cloud-native apps. Think of 
 ## ✅ Quiz
 1. What’s the main benefit of cloud-native apps?  
    **A)** They run on a single server.  
-   **B)** They scale and recover automatically. *(Correct!)*  
+   **B)** They scale and recover automatically.  
    **C)** They avoid containers.  
 
 2. What does Kubernetes do?  
    **A)** Writes application code.  
-   **B)** Manages containers. *(Correct!)*  
+   **B)** Manages containers.  
    **C)** Replaces cloud providers.  
 
 3. A container is:  
    **A)** A full virtual machine.  
-   **B)** A lightweight app package. *(Correct!)*  
+   **B)** A lightweight app package.  
    **C)** A database.  
 
+Answers: *1-B, 2-B, 3-B*
 
 
 ## 📚 Further Reading
