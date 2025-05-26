@@ -17,7 +17,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Understanding pods, nodes, and clusters.
 - Basic Kubernetes architecture (control plane, worker nodes).
 
-**3. Containers and Docker Basics**
+**3. [Containers and Docker Basics](modules/03-Basics.md)**
 
 - What are containers, and how do they work?
 - Introduction to Docker as a container runtime.
