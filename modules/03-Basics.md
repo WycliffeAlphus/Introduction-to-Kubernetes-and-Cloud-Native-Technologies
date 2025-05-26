@@ -105,7 +105,7 @@ If you prefer to try this on your computer:
 
 **Note for Beginners:** If you’re not ready to run commands, just follow along. The sandbox is free and requires no setup, so give it a try if you can! We’ll use .these skills in Kubernetes later.
 
-# Understanding the Docker Workflow
+## Understanding the Docker Workflow
 
 Here’s what happened in the exercise:
 
