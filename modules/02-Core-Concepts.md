@@ -151,3 +151,6 @@ View details with **kubectl describe pod my-web-pod**.
 
 ## What’s Next?
 In Module 3, we’ll dive into **Containers and Docker Basics**, learning how containers are created and why they’re essential for Kubernetes. You’ll try running a container locally or in a sandbox to prepare for deploying apps in Kubernetes.
+
+[Proceed to Module 3](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/03-Basics.html) →
+
