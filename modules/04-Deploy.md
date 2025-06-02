@@ -193,7 +193,7 @@ Stop Minikube when done:`minikube stop`
 
 - kubectl Cheat Sheet: [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
-- Nginx Docker Image: [https://hub.docker.com/_/nginx](https://hub.docker.com/_/nginx)
+- Nginx Docker Image: [Nginx Image](https://hub.docker.com/_/nginx)
 
 ## What’s Next?
 
