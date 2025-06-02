@@ -167,11 +167,8 @@ Stop Minikube when done:`minikube stop`
 ## Quiz
 
 1. What does `kubectl run` do?
-
 - A) Lists all pods in the cluster.
-
 - B) Creates a pod with a container.
-
 - C) Deletes a pod.
 
 
@@ -182,11 +179,8 @@ Stop Minikube when done:`minikube stop`
 
 
 3. What does port-forwarding do?
-
 - A) Deletes a pod.
-
 - B) Maps a local port to a pod’s port to access it.
-
 - C) Scales the pod to multiple copies.
 
 
