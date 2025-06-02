@@ -22,7 +22,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - What are containers, and how do they work?
 - Introduction to Docker as a container runtime.
 
-**4. Deploying Applications with Kubernetes**
+**4. [Deploying Applications with Kubernetes](modules/04-Deploy.md)**
 
 - Using kubectl for basic commands.
 - Deploying a simple application (e.g., a web server).
