@@ -156,3 +156,6 @@ Kubernetes Documentation: Containers (https://kubernetes.io/docs/concepts/contai
 ## What’s Next?
 
 In Module 4, we’ll combine what you’ve learned about containers and Kubernetes by **deploying applications with Kubernetes**. You’ll use `kubectl` to deploy a simple app (like the Nginx web server) to a Kubernetes cluster and see it in action.
+
+
+[Proceed to Module 4](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/03-Deploy.html) →
