@@ -189,11 +189,11 @@ Stop Minikube when done:`minikube stop`
 
 ## Further Reading
 
-- Kubernetes Documentation: Running a Pod (https://kubernetes.io/docs/tasks/run-application/run-single-instance/)
+- Kubernetes Documentation: Running a Pod; [https://kubernetes.io/docs/tasks/run-application/run-single-instance/](https://kubernetes.io/docs/tasks/run-application/run-single-instance/)
 
-- kubectl Cheat Sheet: https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+- kubectl Cheat Sheet: [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
-- Nginx Docker Image: https://hub.docker.com/_/nginx
+- Nginx Docker Image: [https://hub.docker.com/_/nginx](https://hub.docker.com/_/nginx)
 
 ## What’s Next?
 
