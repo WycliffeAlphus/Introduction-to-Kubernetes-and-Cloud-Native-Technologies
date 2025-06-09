@@ -198,3 +198,6 @@ Stop Minikube when done:`minikube stop`
 ## What’s Next?
 
 In Module 5, we’ll dive deeper into **Kubernetes Resources: Pods, Deployments, and Services**, learning how to manage applications at scale and make them accessible within a cluster. You’ll create a deployment to run multiple copies of an app and expose it properly.
+
+
+[Proceed to Module 5](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/05-Resources.html) →
