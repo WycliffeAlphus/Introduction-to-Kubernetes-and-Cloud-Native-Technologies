@@ -193,7 +193,7 @@ kubectl create deployment nginx-deployment --image=nginx --replicas=3
 kubectl expose deployment nginx-deployment --type=NodePort --port=80 --target-port=80 --name=nginx-service
 ```
 
-- Then access and clean up as above.
+- Then access and clean up as shown in Step 5.
 
 **Note for Beginners:** YAML files are the standard way to manage Kubernetes resources, but the command-line approach is simpler for quick tests. Try the YAML method if you can—it’s what you’ll see in real-world scenarios. If you’re not ready for hands-on, just follow along.
 
