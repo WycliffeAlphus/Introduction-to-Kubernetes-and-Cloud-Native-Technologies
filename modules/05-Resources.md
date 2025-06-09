@@ -135,7 +135,7 @@ kubectl get pods
 
 Create a service to access the Nginx pods. Save this as `nginx-service.yaml`:
 
-```bash
+```yaml
 apiVersion: v1
 kind: Service
 metadata:
