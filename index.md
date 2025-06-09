@@ -27,7 +27,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Using kubectl for basic commands.
 - Deploying a simple application (e.g., a web server).
 
-**5. Kubernetes Resources: Pods, Deployments, and Services**
+**5. [Kubernetes Resources: Pods, Deployments, and Services](modules/05-Resources.md)**
 
 - Deep dive into pods, deployments, and services.
 - How Kubernetes manages applications.
