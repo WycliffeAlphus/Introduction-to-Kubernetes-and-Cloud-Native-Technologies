@@ -256,3 +256,6 @@ If you want to try locally:
 ## What’s Next?
 
 In Module 6, we’ll explore **Networking in Kubernetes**, learning how pods communicate within a cluster and how to expose applications using services and ingress. You’ll set up a simple app with proper networking.
+
+[Proceed to Module 6](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/06-Networking.html) →
+
