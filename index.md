@@ -32,7 +32,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Deep dive into pods, deployments, and services.
 - How Kubernetes manages applications.
 
-**6. Networking in Kubernetes**
+**6. [Networking in Kubernetes](modules/06-Networking.md)**
 
 - Basics of Kubernetes networking (services, ingress).
 - How containers communicate within a cluster.
