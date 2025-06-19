@@ -16,6 +16,7 @@ Thanks goes to these wonderful people:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/kh3rld"><img src="https://avatars.githubusercontent.com/u/171191586?v=4?s=100" width="100px;" alt="kh3rld"/><br /><sub><b>kh3rld</b></sub></a><br /><a href="#design-kh3rld" title="Design">🎨</a> <a href="#ideas-kh3rld" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ZEZE1020"><img src="https://avatars.githubusercontent.com/u/60712273?v=4?s=100" width="100px;" alt="Ogembo Godfrey"/><br /><sub><b>Ogembo Godfrey</b></sub></a><br /><a href="https://github.com/WycliffeAlphus/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/commits?author=ZEZE1020" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
