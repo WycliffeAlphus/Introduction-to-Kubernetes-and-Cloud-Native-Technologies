@@ -57,6 +57,11 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Preparing for the KCNA exam.
 - Career paths and further learning (CKA, CKAD)
 
+**11. [Bonus Module](modules/Bonus-Module.md)**
+
+- Other container tools
+- Other orcherstrators
+
 
 ## 🎯 Each module will include:
 
