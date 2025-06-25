@@ -11,11 +11,29 @@ By the end of this module, you’ll be able to:
 
 ## 🌩️ What is Cloud-Native Computing?
 ### Traditional vs. Cloud-Native
-| Traditional Apps               | Cloud-Native Apps              |
-|--------------------------------|--------------------------------|
-| Single monolithic codebase     | Small, independent microservices |
-| Manual scaling                 | Auto-scales based on demand    |
-| Failure can crash the system   | Self-healing with redundancy   |
+<table>
+  <thead>
+    <tr>
+      <th>Traditional Apps</th>
+      <th>Cloud-Native Apps</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Single monolithic codebase</td>
+      <td>Small, independent microservices</td>
+    </tr>
+    <tr>
+      <td>Manual scaling</td>
+      <td>Auto-scales based on demand</td>
+    </tr>
+    <tr>
+      <td>Failure can crash the system</td>
+      <td>Self-healing with redundancy</td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Key Traits of Cloud-Native Apps:**
 - **Microservices**: Broken into small, reusable components.
@@ -30,11 +48,28 @@ Kubernetes (**K8s**) is the "orchestrator" for your cloud-native apps. Think of 
 - **Multi-Cloud Ready**: Runs on AWS, Google Cloud, or your laptop.
 
 ### ⚡ Jargon Decoder
-| Term           | Meaning                          |
-|----------------|----------------------------------|
-| **K8s**        | Short for Kubernetes (K + 8 letters + s). |
-| **Orchestration** | Automating container deployment/scaling. |
-| **Node**       | A server (physical/virtual) running containers. |
+<table>
+  <thead>
+    <tr>
+      <th>Term</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>K8s</strong></td>
+      <td>Short for Kubernetes (K + 8 letters + s).</td>
+    </tr>
+    <tr>
+      <td><strong>Orchestration</strong></td>
+      <td>Automating container deployment/scaling.</td>
+    </tr>
+    <tr>
+      <td><strong>Node</strong></td>
+      <td>A server (physical/virtual) running containers.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## 📦 Containers and Orchestration
@@ -51,12 +86,32 @@ Kubernetes (**K8s**) is the "orchestrator" for your cloud-native apps. Think of 
 
 
 ## 🏙️ Kubernetes Analogy: City Planner
-| Kubernetes Term | Real-World Equivalent          |
-|-----------------|--------------------------------|
-| **Pod**         | Apartment (houses 1+ containers) |
-| **Node**        | Apartment Building (server)    |
-| **Cluster**     | Entire City (group of nodes)   |
-| **Control Plane** | City Hall (manages everything) |
+<table>
+  <thead>
+    <tr>
+      <th>Kubernetes Term</th>
+      <th>Real-World Equivalent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Pod</strong></td>
+      <td>Apartment (houses 1+ containers)</td>
+    </tr>
+    <tr>
+      <td><strong>Node</strong></td>
+      <td>Apartment Building (server)</td>
+    </tr>
+    <tr>
+      <td><strong>Cluster</strong></td>
+      <td>Entire City (group of nodes)</td>
+    </tr>
+    <tr>
+      <td><strong>Control Plane</strong></td>
+      <td>City Hall (manages everything)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
