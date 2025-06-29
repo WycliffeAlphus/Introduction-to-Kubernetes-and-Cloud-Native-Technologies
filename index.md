@@ -37,7 +37,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Basics of Kubernetes networking (services, ingress).
 - How containers communicate within a cluster.
 
-**7. Storage in Kubernetes**
+**7. [Storage in Kubernetes](modules/07-storage.md)**
 
 - Introduction to persistent volumes and claims.
 - Storing data for applications.
