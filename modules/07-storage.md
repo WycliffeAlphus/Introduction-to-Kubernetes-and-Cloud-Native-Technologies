@@ -77,7 +77,7 @@ Let’s deploy a simple application (a web server with a file-based guestbook) a
 
 **Step 1: Set Up Your Environment**
 
-1. Go to **Play with Kubernetes** (https://labs.play-with-k8s.com/).
+1. Go to [**Play with Kubernetes**](https://labs.play-with-k8s.com/).
 
 2. Start a Kubernetes cluster (takes 1-2 minutes).
 
