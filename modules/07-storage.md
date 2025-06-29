@@ -315,8 +315,11 @@ C) A network endpoint.
 
 
 #### 3. What does a volume do in a pod?
+
 A) Exposes the pod externally.
+
 B) Manages pod replicas.
+
 C) Provides storage for containers.
 
 
