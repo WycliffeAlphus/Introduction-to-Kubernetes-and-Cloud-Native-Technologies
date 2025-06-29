@@ -270,3 +270,5 @@ If you want to try locally:
 ## What’s Next?
 
 In Module 7, we’ll explore **Storage in Kubernetes**, learning how to provide persistent storage for applications using volumes and persistent volume claims. You’ll set up storage for a simple app.
+
+[Proceed to Module 7](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/07-storage.html) →
