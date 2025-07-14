@@ -338,3 +338,5 @@ C) Provides storage for containers.
 
 In **Module 8**, we’ll explore the Cloud-Native Ecosystem and CNCF Projects, learning about tools like Prometheus and Envoy and how they complement Kubernetes. You’ll get a big-picture view of cloud-native technologies.
 
+
+[Proceed to Module 8](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/08-Cloud-Native-Ecosystem.html) →
