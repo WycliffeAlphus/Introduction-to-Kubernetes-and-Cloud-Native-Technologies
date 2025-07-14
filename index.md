@@ -42,7 +42,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Introduction to persistent volumes and claims.
 - Storing data for applications.
 
-**8. Cloud-Native Ecosystem and CNCF Projects**
+**8. [Cloud-Native Ecosystem and CNCF Projects](modules/08-Cloud-Native-Ecosystem.md)**
 
 - Overview of the CNCF landscape (Prometheus, Envoy, etc.).
 - How Kubernetes fits into cloud-native architecture.
