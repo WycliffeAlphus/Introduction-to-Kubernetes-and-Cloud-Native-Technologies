@@ -169,3 +169,6 @@ C) Provides persistent storage.
 
 ## What’s Next?
 In Module 9, we’ll dive into **Observability and Monitoring**, exploring how to monitor Kubernetes applications using tools like Prometheus and view logs with Fluentd. You’ll set up a simple monitoring example.
+
+
+[Proceed to Module 9](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/09-Observability.html) →
