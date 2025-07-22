@@ -47,7 +47,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Overview of the CNCF landscape (Prometheus, Envoy, etc.).
 - How Kubernetes fits into cloud-native architecture.
 
-**9. Observability and Monitoring**
+**9. [Observability and Monitoring](modules/09-Observability.md)**
 
 - Basics of logging and monitoring in Kubernetes.
 - Introduction to tools like Prometheus and Grafana.
