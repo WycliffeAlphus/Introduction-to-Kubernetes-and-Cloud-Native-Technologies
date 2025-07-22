@@ -247,16 +247,27 @@ For a local setup (advanced):
 ## Quiz
 
 1.  What is observability in Kubernetes?
+
     A) Managing pod networking.
+
     B) Monitoring and troubleshooting apps with metrics and logs.
+
     C) Deploying containers.
+
 2.  What does Prometheus collect?
+
     A) Logs from pods.
+
     B) Metrics like CPU usage and request rates.
+
     C) Persistent storage data.
+
 3.  What is Fluentd used for?
+
     A) Visualizing metrics.
+
     B) Collecting and aggregating logs.
+    
     C) Managing deployments.
 
 **Answers:** 1-B, 2-B, 3-B
