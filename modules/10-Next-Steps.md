@@ -153,6 +153,7 @@ To keep learning after this course:
     C) Cloud provider management.
 
 2.  Which tool is used for monitoring metrics in Kubernetes?
+
     A) Fluentd.
 
     B) Prometheus.
@@ -160,10 +161,11 @@ To keep learning after this course:
     C) Helm.
 
 3.  What is a good next step after KCNA?
+
     A) Learn a programming language like Python.
 
     B) Pursue CKA or CKAD certifications.
-    
+
     C) Focus only on Docker.
 
 **Answers**: 1-B, 2-B, 3-B
