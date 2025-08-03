@@ -19,7 +19,7 @@ The Kubernetes and Cloud Native Associate (**KCNA**) certification, offered by t
 * **Format**: 60 multiple-choice questions, online, proctored.
 * **Duration**: 90 minutes.
 * **Passing Score**: Approximately 75% (subject to change; check official guidelines).
-* **Cost**: Refer to [https://www.cncf.io/training/certification/kcna/](https://www.cncf.io/training/certification/kcna/) for pricing (I don’t have access to current pricing details).
+* **Cost**: Refer to [https://www.cncf.io/training/certification/kcna/](https://www.cncf.io/training/certification/kcna/) for pricing.
 * **Topics (aligned with this course)**:
     * **Kubernetes Fundamentals (46%)**: Pods, deployments, services, architecture (Modules 2, 4, 5).
     * **Container Orchestration (22%)**: Containers, Docker, orchestration basics (Modules 3, 4).
@@ -145,18 +145,25 @@ To keep learning after this course:
 ## Quiz
 
 1.  What does the KCNA certification test?
+
     A) Advanced Kubernetes administration.
+
     B) Foundational Kubernetes and cloud-native knowledge.
+
     C) Cloud provider management.
 
 2.  Which tool is used for monitoring metrics in Kubernetes?
     A) Fluentd.
+
     B) Prometheus.
+
     C) Helm.
 
 3.  What is a good next step after KCNA?
     A) Learn a programming language like Python.
+
     B) Pursue CKA or CKAD certifications.
+    
     C) Focus only on Docker.
 
 **Answers**: 1-B, 2-B, 3-B
