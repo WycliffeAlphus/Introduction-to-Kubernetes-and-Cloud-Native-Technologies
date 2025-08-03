@@ -282,3 +282,8 @@ For a local setup (advanced):
 ## What’s Next?
 
 In Module 10, we’ll wrap up with Next Steps and Certification Prep, covering how to prepare for the KCNA exam, explore career paths, and continue your cloud-native journey.
+
+
+
+[Proceed to Module 10](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/10-Next-Steps.htmll) →
+
