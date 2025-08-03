@@ -285,5 +285,5 @@ In Module 10, we’ll wrap up with Next Steps and Certification Prep, covering h
 
 
 
-[Proceed to Module 10](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/10-Next-Steps.htmll) →
+[Proceed to Module 10](https://wycliffealphus.github.io/Introduction-to-Kubernetes-and-Cloud-Native-Technologies/modules/10-Next-Steps.html) →
 
