@@ -52,7 +52,7 @@ This course is your entry point into the exciting world of Kubernetes and cloud-
 - Basics of logging and monitoring in Kubernetes.
 - Introduction to tools like Prometheus and Grafana.
 
-**10. Next Steps and Certification Prep**
+**10. [Next Steps and Certification Prep](modules/10-Next-Steps.md)**
 
 - Preparing for the KCNA exam.
 - Career paths and further learning (CKA, CKAD)
